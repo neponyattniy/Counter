@@ -1,0 +1,10 @@
+button {
+    height: 50px;
+    margin-top: 30px;
+    width: 60px;
+    border: 2px solid black;
+    background-image: linear-gradient(#833ae0, #7ee3ae);
+    font-size: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
